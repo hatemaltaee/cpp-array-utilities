@@ -14,23 +14,10 @@ Welcome to **C++ Array Utilities**, a powerful C++ program that provides a compr
 
 ## Example Output
 
-Array 1: 5 12 7 3
-Array 2: 8 2 9 1
-Sum Array: 13 14 16 4
-Prime Numbers: 5 7 3
-Even Numbers: 12
-Odd Numbers: 5 7 3
-Palindrome Check: NO ❌
-Distinct Array: 5 12 7 3
-Odd Numbers Count: 3
-Even Numbers Count: 1
-Prime Numbers Count: 3
-Generated Keys:
-Array [1]: ABCDE-FGHIJ-KLMNO
-Array [2]: PQRST-UVWXY-ZABCD
-...
+![Program Output](output.png)
 
 > ⚠️ Note: Output will vary depending on random number generation.
+
 
 ## How to Use
 
