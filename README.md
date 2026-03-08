@@ -11,7 +11,7 @@ Welcome to **C++ Array Utilities**, a comprehensive and beginner-friendly C++ pr
 * 📊 **Array Analysis:** Calculate max, min, sum, average, and extract even/odd/prime values.
 * 🔍 **Filtering & Searching:** Filter prime, even, odd values; search for specific numbers.
 * ✍️ **Dynamic Input:** Add numbers interactively to arrays.
-* 🔢 **Math Utilities:** Compute absolute, round, floor, and ceil of floating-point numbers.
+* 🔢 **Math Utilities:** Compute Power, absolute, round, floor, and ceil of floating-point numbers.
 * 🔑 **Key Generation:** Generate random alphanumeric keys in structured blocks.
 
 ---
