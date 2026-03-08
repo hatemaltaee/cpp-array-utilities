@@ -93,6 +93,7 @@ int main() {
     cout << "\nEnter a float number: ";
     cin >> num;
     cout << "\n=========== MATH UTILS ========" << endl;
+    cout << "Power Base to Power : " << Power(2,7) << endl;
     cout << "Absolute : " << AbsoluteNumber(num) << endl;
     cout << "Round    : " << RoundNumber(num) << endl;
     cout << "Floor    : " << FloorNumber(num) << endl;
