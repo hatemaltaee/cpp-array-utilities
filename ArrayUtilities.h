@@ -60,6 +60,7 @@ void PrintArrayElement(string* array, int length_array, string name_array);
 void PrintIsFound(const int* array, int length_array, int number_search, int position_item);
 
 // Math Utilities
+int Power(int Base, int power);
 float AbsoluteNumber(float number);
 int RoundNumber(float number);
 int FloorNumber(float number);
