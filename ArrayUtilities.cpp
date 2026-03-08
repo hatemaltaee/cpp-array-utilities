@@ -232,6 +232,18 @@ void PrintIsFound(const int* array, int length_array, int number_search, int pos
 }
 
 // ========================== Math Utilities ==========================
+int Power(int Base, int power)
+{
+	if (power == 0)
+		return 1;
+	else if (power & 1) {
+		return (Base * Power(Base, power - 1));
+	}
+	else {
+		int half = Power(Base, power / 2);
+		return half * half;
+	}
+}
 float AbsoluteNumber(float number) { return (number < 0) ? -number : number; }
 int RoundNumber(float number) { return (number >= 0) ? int(number + 0.5) : int(number - 0.5); }
 int FloorNumber(float number) { int i = int(number); return (number < 0 && number != i) ? i - 1 : i; }
